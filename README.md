@@ -82,7 +82,8 @@ public class Code : MonoBehaviour
 
 ## Output:
 
-<img width="1919" height="1089" alt="Screenshot 2025-09-05 213153" src="https://github.com/user-attachments/assets/2f96853d-09ed-467c-bdee-09339cff0111" />
+<img width="1919" height="1139" alt="Screenshot 2025-09-05 221039" src="https://github.com/user-attachments/assets/55b1e0e4-e4ad-4cf7-9b82-35fc6fc696ff" />
+
 
 
 ## Result:
